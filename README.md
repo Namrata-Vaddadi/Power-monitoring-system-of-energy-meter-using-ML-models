@@ -36,5 +36,4 @@ This project presents a Power Monitoring System for energy meters using machine 
 - Integrate with energy management systems.
 
 
-[Your Name]  
-[Your Contact Info or GitHub]
+
